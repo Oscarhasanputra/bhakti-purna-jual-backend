@@ -12,7 +12,7 @@ exports.dbConfig = {
 	user: "sa",
 	password: "UsusBuntu@202309",
 	host:"10.1.0.181",
-	server: "localhost",
+	server: "10.1.0.181",
 	database: "bhakti-purna-jual-dev",
 	requestTimeout: 60000
 };
